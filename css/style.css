@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url("components/container.css");
+@import url("components/violet.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/stella.css");
+
+h1{
+	font-family: 'Roboto', sans-serif;
+	font-size: 50px;
+	font-weight: bold;
+	color:white;
+}
+h2,h3{
+	font-family: 'Roboto', sans-serif;
+	font-size: 30px;
+	font-weight: bold;
+}
+body{
+	font-size: 18px;
+	font-family:'Roboto', sans-serif;
+	margin:0 ;
+
+}
